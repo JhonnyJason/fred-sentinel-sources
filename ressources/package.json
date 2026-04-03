@@ -1,22 +1,22 @@
 {
     "name": "fred-sentinel",
     "version": "0.0.1",
-    "description": "",
+    "description": "Specific opinionated Wrapper of the FRED API to be used by the Sentinel",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
+    "keywords": ["FRED", "Sentinel"],
     "author": "Lenard Frommelt lenard@frommelt.dev",
     "license": "CC0-1.0",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JhonnyJason/noname-output.git"
+        "url": "git+https://github.com/JhonnyJason/fred-sentinel-output.git"
     },
     "bugs": {
-        "url": "https://github.com/JhonnyJason/noname/issues"
+        "url": "https://github.com/JhonnyJason/fred-sentinel/issues"
     },
-    "homepage": "https://github.com/JhonnyJason/noname-output/#readme",
+    "homepage": "https://github.com/JhonnyJason/fred-sentinel-output/#readme",
     "dependencies": {},
     "type": "module"
 }

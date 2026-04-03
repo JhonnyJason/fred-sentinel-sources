@@ -1,28 +1,11 @@
-# noname - 
+# fred-sentinel 
 
-# Background
+This package has been created to furfill the specific needs of the sentinel-backend.
+As such the implementation is reduced to exactly the functions required by the sentinel-backend.
 
-# Usage
-Requirements
-------------
+## Features + Usage
+TODO...
 
-Installation
-------------
-
-Current Functionality
----------------------
-
-
----
-
-# Further steps
-
-- ...
-
-
-All sorts of inputs are welcome, thanks!
-
----
 
 # License
-[Unlicense JhonnyJason style](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA?view)
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
